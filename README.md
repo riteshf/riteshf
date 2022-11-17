@@ -16,58 +16,35 @@ Hi there 👋!
 
 #### What are my skill sets?
 
-- 🗄️ **Backend:**
+- JavaScript` Profecient ███████████████████░ [5 years]`
+- [Typescript](https://www.typescriptlang.org/)` Expert ██████████████████░░ [4 years]`
+- [Node.js](https://nodejs.org/en/)` Expert ████████████████░░░░ [4 years]`
+- [React.js](https://reactjs.org/)` Profecient ████████████████████ [5 years]`
+- [Next.js](https://nextjs.org/)` Expert ██████████████████░░ [3 years]`
+- [MongoDB](https://www.mongodb.com/)` Expert ███████████████████░ [4 years]`
+- [PostgreSQL](https://www.postgresql.org/)` Expert █████████████████████░ [4 years]`
+- [Redis](https://redis.io/)` Intermediate █████████████░░░░░░░ [2 years]`
+- [GraphQL](https://graphql.org/)` Intermediate+ ████████████████░░░ [4 years]`
 
-  - **Language:**
-    - [Node.js](https://nodejs.org/en/)
-    - [Deno](https://deno.land/)
-  - **Framework:**
-    - [Express](https://expressjs.com/)
-    - [Apollo](https://www.apollographql.com/docs/)
-    - [Hapi](https://hapi.dev/)
-  - **Databases:**
-    - [MongoDB](https://www.mongodb.com/)
-    - [PostgreSQL](https://www.postgresql.org/)
-    - [Redis](https://redis.io/)
-    - [Oracle](https://www.oracle.com/in/database/)
-  - **Protocol:**
-    - [REST](https://restfulapi.net/)
-    - [Web Socket](https://socket.io/docs/v4/)
-    - [Graphql](https://graphql.org/)
+#### What am I learning ?
 
-- 🖥 **Frontend:**
+- [Deno](https://deno.land/)` Begineer ████████░░░░░░░░░░░░ [1 years]`
+- [Fresh](https://fresh.deno.dev/)` Begineer ████████░░░░░░░░░░░░ [1 years]`
 
-  - **Language:**
-    - [Typescript](https://www.typescriptlang.org/)
-    - JavaScript
-  - **Framework/Library:**
-    - [React.js](https://reactjs.org/)
-    - [Next.js](https://nextjs.org/)
-    - [Fresh](https://fresh.deno.dev/)
-    - [Redux](https://redux.js.org/)
-    - [React Query](https://react-query-v3.tanstack.com/)
-    - [Lerna](https://lerna.js.org/)
-  - **System Architecture:**
-    - [Monolithic](https://lerna.js.org/)
-    - Micro Frontend
-  - **UI Toolkit:**
-    - [MUI](https://mui.com/)
-    - [Chakra](https://chakra-ui.com/)
-    - [Ant Design](https://ant.design/)
-    - [Tailwind](https://tailwindcss.com/)
-    - [Bootstrap](https://getbootstrap.com/)
-  - **Utils:**
-    - [React Charts](https://react-charts.tanstack.com)
-    - [Chart.js](https://www.chartjs.org/)
-    - [AgGrid](https://www.ag-grid.com/)
-    - [date-fns](https://date-fns.org/)
-    - [React Icons](https://react-icons.github.io/react-icons/)
+#### Worked on Company Project?
 
-- 🎡 **Ecosystem:**
-  - **Containerization:** GitHub Codespaces • Docker
-  - **Version Control:** Git • GitHub • SVN
-  - **CI/CD:** Github Actions
-  - **Project Management:** Jira • GitHub Projects • Trello • Asana
+- Masaischool
+  - [Online Coding Platform]("https://cp.masaischool.com/") - MERN - Design, Architect and Developed
+  - [Masaischool Website](https://masaischool.com/) - MERN - Architect and Developed
+- Swiggy
+  - [Swiggy Partner Web](https://partner.swiggy.com/) - React - Contributed to feature developement
+- Globant
+  - [Open Bank](https://www.openbank.es/) - React - Contributed to feature developement
+  - [Ernst and Young](https://www.openbank.es/) - React & Node - Contributed to feature developement
+- Confluxsys
+  - Decision Support Portal - React, AngularJS & Java - Contributed to feature developement and migration.
+  - Role Studio - Java - Contributed to feature developement and migration.
+  - C.A.G - Java - Contributed to feature developement and open-source contribution.
 
 #### How to reach me?
 
