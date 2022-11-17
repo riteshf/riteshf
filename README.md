@@ -16,20 +16,20 @@ Hi there 👋!
 
 #### What are my skill sets?
 
-- JavaScript` Profecient ███████████████████░ [5 years]`
-- [Typescript](https://www.typescriptlang.org/)` Expert ██████████████████░░ [4 years]`
-- [Node.js](https://nodejs.org/en/)` Expert ████████████████░░░░ [4 years]`
-- [React.js](https://reactjs.org/)` Profecient ████████████████████ [5 years]`
-- [Next.js](https://nextjs.org/)` Expert ██████████████████░░ [3 years]`
-- [MongoDB](https://www.mongodb.com/)` Expert ███████████████████░ [4 years]`
-- [PostgreSQL](https://www.postgresql.org/)` Expert █████████████████████░ [4 years]`
-- [Redis](https://redis.io/)` Intermediate █████████████░░░░░░░ [2 years]`
-- [GraphQL](https://graphql.org/)` Intermediate+ ████████████████░░░ [4 years]`
+- JavaScript Profecient ███████████████████░ [5 years]
+- [Typescript](https://www.typescriptlang.org/) Expert ██████████████████░░ [4 years]
+- [Node.js](https://nodejs.org/en/) Expert ████████████████░░░░ [4 years]
+- [React.js](https://reactjs.org/) Profecient ████████████████████ [5 years]
+- [Next.js](https://nextjs.org/) Expert ██████████████████░░ [3 years]
+- [MongoDB](https://www.mongodb.com/) Expert ███████████████████░ [4 years]
+- [PostgreSQL](https://www.postgresql.org/) Expert █████████████████████░ [4 years]
+- [Redis](https://redis.io/) Intermediate █████████████░░░░░░░ [2 years]
+- [GraphQL](https://graphql.org/) Intermediate+ ████████████████░░░ [4 years]
 
 #### What am I learning ?
 
-- [Deno](https://deno.land/)` Begineer ████████░░░░░░░░░░░░ [1 years]`
-- [Fresh](https://fresh.deno.dev/)` Begineer ████████░░░░░░░░░░░░ [1 years]`
+- [Deno](https://deno.land/) Begineer ████████░░░░░░░░░░░░ [1 years]
+- [Fresh](https://fresh.deno.dev/) Begineer ████████░░░░░░░░░░░░ [1 years]
 
 #### Worked on Company Project?
 
