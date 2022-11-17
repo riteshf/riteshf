@@ -34,7 +34,7 @@ Hi there 👋!
 #### Worked on Company Project?
 
 - Masaischool
-  - [Online Coding Platform]("https://cp.masaischool.com/") - MERN - Design, Architect and Developed
+  - [Online Coding Platform](https://cp.masaischool.com/) - MERN - Design, Architect and Developed
   - [Masaischool Website](https://masaischool.com/) - MERN - Architect and Developed
 - Swiggy
   - [Swiggy Partner Web](https://partner.swiggy.com/) - React - Contributed to feature developement
