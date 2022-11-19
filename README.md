@@ -1,4 +1,8 @@
-Hi there 👋!
+<h1 align="center">Hi 👋, I'm Ritesh Firodiya</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshf&label=Profile%20views&color=0e75b6&style=flat" alt="riteshf" /> </p>
+
+<img align="right" alt="coding" width="350" src="./assets/developer.gif">
 
 #### Who I am?
 
