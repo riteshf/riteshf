@@ -74,10 +74,8 @@
   - Role Studio - Java - Contributed to feature developement and migration.
   - C.A.G - Java - Contributed to feature developement and open-source contribution.
 
-<div width="100%">
 <h3 align="left">Github Report Card</h3>
 <span>
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshf&show_icons=true&locale=en&layout=compact" alt="riteshf" />
   <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshf&show_icons=true&locale=en" alt="riteshf" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshf&show_icons=true&locale=en&layout=compact" alt="riteshf" />
 </span>
-</div>
