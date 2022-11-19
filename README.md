@@ -32,16 +32,6 @@
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/riteshfirodiya)**.
 
-### My Recent Blogs
-
-<!-- BLOG-POST-LIST:START -->
-
-<a target="_blank" href="https://riteshf-blogs.deno.dev/typescript-basics" alt="Basics Types in Typescript "></a>
-
-<a target="_blank" href="https://riteshf-blogs.deno.dev/typescript-advance" alt="Advance Types in Typescript"></a>
-
-<!-- BLOG-POST-LIST:END -->
-
 #### What are my skill sets?
 
 - JavaScript ███████████████████░ [Proficient, 5 years]
