@@ -1,7 +1,20 @@
+<div width="50%">
 <h1 align="center">Hi 👋, I'm Ritesh Firodiya</h1>
 <h3 align="center">A language is a way of expressing logic, not for expressing knowledge.</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshf&label=Profile%20views&color=0e75b6&style=flat" alt="riteshf" /> </p>
+<div width="50%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/riteshfirodiya" target="_blank">
+    <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+  </a>
+<a href="mailto:firodiya.ritesh@gmail.com">
+    <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+  </a>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=riteshf&label=Profile%20views&color=0e75b6&style=flat" alt="riteshf" /> </p>
+</div>
 
 <img align="right" alt="coding" width="350" src="./assets/developer.gif">
 
@@ -60,18 +73,6 @@
   - Decision Support Portal - React, AngularJS & Java - Contributed to feature developement and migration.
   - Role Studio - Java - Contributed to feature developement and migration.
   - C.A.G - Java - Contributed to feature developement and open-source contribution.
-
-<div width="100%">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/riteshfirodiya" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-  </a>
-<a href="mailto:firodiya.ritesh@gmail.com">
-    <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
-  </a>
-</p>
-</div>
 
 <div width="100%">
 <h3 align="left">Github Report Card</h3>
