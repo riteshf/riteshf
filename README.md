@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Firodiya</h1>
+<h3 align="center">A language is a way of expressing logic, not for expressing knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshf&label=Profile%20views&color=0e75b6&style=flat" alt="riteshf" /> </p>
 
@@ -17,6 +18,16 @@
 - Writing `TypeScript`, `React.js`, `Node.js`, `MongoDB`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/riteshfirodiya)**.
+
+### My Recent Blogs
+
+<!-- BLOG-POST-LIST:START -->
+
+<a target="_blank" href="https://riteshf-blogs.deno.dev/typescript-basics" alt="Basics Types in Typescript "></a>
+
+<a target="_blank" href="https://riteshf-blogs.deno.dev/typescript-advance" alt="Advance Types in Typescript"></a>
+
+<!-- BLOG-POST-LIST:END -->
 
 #### What are my skill sets?
 
@@ -50,12 +61,22 @@
   - Role Studio - Java - Contributed to feature developement and migration.
   - C.A.G - Java - Contributed to feature developement and open-source contribution.
 
-#### How to reach me?
-
-<a href="https://www.linkedin.com/in/riteshfirodiya">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-
+<div width="100%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/riteshfirodiya" target="_blank">
+    <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+  </a>
 <a href="mailto:firodiya.ritesh@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
-</a>
+    <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+  </a>
+</p>
+</div>
+
+<div width="100%">
+<h3 align="left">Github Report Card</h3>
+<span>
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshf&show_icons=true&locale=en&layout=compact" alt="riteshf" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=riteshf&show_icons=true&locale=en" alt="riteshf" />
+</span>
+</div>
