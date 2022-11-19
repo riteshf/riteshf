@@ -16,10 +16,10 @@ Hi there 👋!
 
 #### What are my skill sets?
 
-- JavaScript ███████████████████░ [Profecient, 5 years]
+- JavaScript ███████████████████░ [Proficient, 5 years]
 - [Typescript](https://www.typescriptlang.org/) ██████████████████░░ [Expert, 4 years]
 - [Node.js](https://nodejs.org/en/) ████████████████░░░░ [Expert, 4 years]
-- [React.js](https://reactjs.org/) ████████████████████ [Profecient, 5 years]
+- [React.js](https://reactjs.org/) ████████████████████ [Proficient, 5 years]
 - [Next.js](https://nextjs.org/) ██████████████████░░ [Expert, 3 years]
 - [MongoDB](https://www.mongodb.com/) ███████████████████░ [Expert, 4 years]
 - [PostgreSQL](https://www.postgresql.org/) █████████████████████░ [Expert, 4 years]
