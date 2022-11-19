@@ -77,7 +77,7 @@
 <div width="100%">
 <h3 align="left">Github Report Card</h3>
 <span>
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshf&show_icons=true&locale=en&layout=compact" alt="riteshf" />
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=riteshf&show_icons=true&locale=en" alt="riteshf" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshf&show_icons=true&locale=en&layout=compact" alt="riteshf" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshf&show_icons=true&locale=en" alt="riteshf" />
 </span>
 </div>
