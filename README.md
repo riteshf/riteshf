@@ -7,16 +7,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/riteshfirodiya" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="static/linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="22px" src="https://github.com/riteshf/riteshf/blob/main/static/linkedin.svg" />
   </a>
 <a href="mailto:firodiya.ritesh@gmail.com">
-    <img align="left" alt="Mail" width="22px" src="static/gmail.svg" />
+    <img align="left" alt="Mail" width="22px" src="https://github.com/riteshf/riteshf/blob/main/static/gmail.svg" />
   </a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=riteshf&label=Profile%20views&color=0e75b6&style=flat" alt="riteshf" /> </p>
 </div>
 
-<img align="right" alt="coding" width="350" src="static/developer.gif">
+<img align="right" alt="coding" width="350" src="https://github.com/riteshf/riteshf/blob/main/static/developer.gif">
 
 #### Who I am?
 
